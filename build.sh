@@ -1,1 +1,1 @@
-./mvnw package -Dmaven.test.skip=true
+./mvnw package -Dmaven.test.skip=false
